@@ -16,6 +16,5 @@ Forma incorrecta:
 <br>
 Forma correcta es:
 <br>
-<br>
 !PesetasAEuros 13000 ✔️
 
