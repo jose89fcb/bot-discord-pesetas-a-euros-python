@@ -11,9 +11,11 @@ Debes escribir el número sin el punto
 Forma incorrecta:
 <br>
 !PesetasAEuros 13.000 ❌
+<br>
 
 <br>
 Forma correcta es:
+<br>
 <br>
 !PesetasAEuros 13000 ✔️
 
