@@ -8,6 +8,7 @@ Comando:
 <br>
 Debes escribir el número sin el punto
 <br>
+<br>
 Forma incorrecta:
 <br>
 !PesetasAEuros 13.000 ❌
